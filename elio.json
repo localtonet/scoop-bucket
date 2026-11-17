@@ -1,15 +1,15 @@
 {
-    "version": "0.1.5",
+    "version": "0.1.6",
     "description": "Terminal and SSH client",
     "homepage": "https://elio.sh",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/localtonet/elio/releases/download/v0.1.5/elio-win-x64.zip",
-            "hash": "64fd08f5c9fd8ba420353fa75bf15dfb8c638638632b06637dc0615cf2113d7c"
+            "url": "https://github.com/localtonet/elio/releases/download/v0.1.6/elio-win-x64.zip",
+            "hash": "4147d2745de66d856a6308fc9a14fe0fece58c5ad7b1e1c6a35ffb46a3d3827c"
         }
     },
-    "extract_dir": "elio-0.1.5-win-x64",
+    "extract_dir": "elio-0.1.6-win-x64",
     "bin": "elio.exe",
     "shortcuts": [
         ["elio.exe", "Elio"]
